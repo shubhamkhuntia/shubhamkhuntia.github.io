@@ -1,12 +1,14 @@
-a{
+a {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
   margin: 20px 30px;
   text-decoration: none;
 }
-a:hover{
-  color: #fa7f72;
+
+a:hover {
+  color: #433520;
 }
+
 body {
   margin: 0px;
   text-align: center;
@@ -21,13 +23,14 @@ body {
 }
 
 .middle-container {
-padding: 100px 0;
+  padding: 100px 0;
 }
+
 .profile {
   border-radius: 50%;
 }
 
-.bottom-container{
+.bottom-container {
   background-color: #66BFBF;
   padding: 50px 0 20px;
 }
@@ -45,70 +48,78 @@ h2 {
   color: #66BFBF;
   font-weight: normal;
   padding-bottom: 10px;
-
 }
 
 h3 {
-
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
 }
 
 .pro {
   text-decoration: underline;
-
 }
-hr{
+
+hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   margin: 100px auto;
   width: 4%;
 }
+
 .bottom-cloud {
   position: absolute;
   left: 250px;
   bottom: 300px;
 }
-.contact-message{
+
+.contact-message {
   width: 40%;
   margin: 40px auto 60px;
 }
+
 .top-cloud {
   position: absolute;
   right: 250px;
   top: 40px;
 }
-.skill-row{
+
+.skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-
 }
-p{
+
+p {
   line-height: 2;
 }
-.intro{
+
+.intro {
   width: 30%;
   margin: auto;
 }
-.code-img{
+
+.code-img {
   width: 25%;
   float: right;
   margin-left: 30px;
 }
-.drive-img{
-   width: 25%;
-   float: left;
-   margin-right: 30px;
+
+.drive-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
-.copyright{
+
+.copyright {
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
 }
-.proof{
+
+.proof {
   text-align: left;
 }
+
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #1199e);
