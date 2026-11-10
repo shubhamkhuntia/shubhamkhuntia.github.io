@@ -1,15 +1,14 @@
-# Shubham Khuntia | Data Engineer
+# Shubham Khuntia
 
-Personal portfolio site for [shubhamkhuntia.github.io](https://shubhamkhuntia.github.io/).
+Minimal, static portfolio for [shubhamkhuntia.github.io](https://shubhamkhuntia.github.io/).
 
 ## Local preview
 
-This is a static site. Open `index.html` in a browser, or serve this directory with any static file server.
+Open `index.html` in a browser or serve this folder with a static file server.
 
-## Updating
+## Site files
 
-- Page content and metadata: `index.html`
-- Layout and visual design: `CSS/styles.css`
-- Mobile navigation and footer year: `script.js`
+- `index.html` — content and inline project illustrations
+- `CSS/styles.css` — visual system and responsive layouts
 
-The site uses Google Fonts when a network connection is available and falls back to system serif and sans-serif fonts when it is not.
+Google Fonts enhance the typography when online; local fallbacks are included.
