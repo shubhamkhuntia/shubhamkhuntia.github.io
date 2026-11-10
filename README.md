@@ -1,6 +1,6 @@
 # Shubham Khuntia
 
-Minimal, static portfolio for [shubhamkhuntia.github.io](https://shubhamkhuntia.github.io/).
+Static portfolio for [shubhamkhuntia.github.io](https://shubhamkhuntia.github.io/) with an electric-blue data-systems visual theme.
 
 ## Local preview
 
